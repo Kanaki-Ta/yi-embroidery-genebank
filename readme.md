@@ -126,10 +126,11 @@ Yi-Embroidery-GeneBank/
 
 联系我们 | Contact
 
-- 如有问题或建议，请在 [GitHub Issues](https://github.com/AizenGinutako/Yi style/issues) 中提出。
+- 如有问题或建议，请在 [GitHub Issues](https://github.com/AizenGinutako/yi-embroidery-genebank/issues) 中提出。
 - 项目维护者：[@Aizen Ginutako](https://github.com/AizenGinutako)
 - 作者电邮：2406851083@qq.com / 13554754853@163.com
 
 ---
 
 如果这个项目对您有帮助，请给它一个⭐️星标支持！
+
