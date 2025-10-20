@@ -1,0 +1,24 @@
+{
+  "name": "yi-embroidery-genebank",
+  "version": "1.0.0",
+  "description": "An open-source visual gene bank for Yi ethnic embroidery, powering AI art and digital creation.",
+  "keywords": [
+    "yi-ethnic",
+    "embroidery",
+    "ai-art",
+    "chinese-culture",
+    "prompt-engineering",
+    "cultural-heritage"
+  ],
+  "author": {
+    "name": "AizenGinutako",
+    "email": "2406851083@qq.com"
+  },
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kanaki-ta/yi-embroidery-genebank"
+  },
+  "created": "2025-10-01",
+  "lastUpdated": "2025-10-20"
+}
